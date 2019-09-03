@@ -1,4 +1,3 @@
-#not being to install pip install PyPDF2
 from tkinter import *
 from tkinter import messagebox
 import PyPDF2
